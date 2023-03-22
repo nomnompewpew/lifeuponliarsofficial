@@ -47,7 +47,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 21,
+    "uniqCompNum": 31,
     "versionPublish": "5.8.0",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/imageedit-3-9374548356-40x40.png",
@@ -65,11 +65,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "Life Upon Liars was established in 2014 and re-vamped in 2022. Crossing styles of punk rock, metalcore and melody - LUL has performed alongside an awesome variety of bands in the Pacific Northwest. As a regional act, LUL aims to put on a stunning audio and visual performance to keep crowds coming back.",
+        "title": "Life Upon Liars Official",
+        "meta_descr": "Life Upon Liars was established in 2014 and re-vamped in 2022. Crossing styles of metalcore, punk rock and melody - LUL strikes a balance between heavy breakdowns and catchy choruses, giving a nod to the shared influences of the band members. Continuing a history of playing with diverse and talented bands from amateur to national acts, LUL aims to put on a stunning audio and visual performance to keep crowds coming back.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/334888007_145218555118618_873275954601275632_n-1536x2048.jpeg"
       },
       "components": [
         {
