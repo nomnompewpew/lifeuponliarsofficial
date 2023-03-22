@@ -73,24 +73,6 @@
       },
       "components": [
         {
-          "alias": "eb-music-widget",
-          "_isSecondary": true,
-          "_styles": {},
-          "_name": "eb-music-widget",
-          "_sourceTheme": "audiom4",
-          "_customHTML": "<section class=\"elb-widgets eb-music-widget\" group=\"Chat\" once=\"chat\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"popupChatsPlaceholder\">        <style>            .popupChatsPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>MUSIC PLAYER WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-music-widget/assets/player.jpg\">    </div></div></section>",
-          "_cid": "twfRpu7x5z",
-          "_anchor": "eb-music-widget-0",
-          "safe": {
-            "id": 10207,
-            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2Uhx84l\"></div>"
-          },
-          "_protectedParams": [],
-          "_global": false,
-          "_once": "chat",
-          "_params": {}
-        },
-        {
           "alias": false,
           "_styles": {
             "& when not (@fullScreen)": {
