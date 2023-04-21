@@ -51,7 +51,7 @@
     "versionPublish": "5.8.0",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/l-favicon.svg",
-    "mbrsiteDomain": "41homarqny",
+    "mbrsiteDomain": "9svokvaznn",
     "usedWebp": true,
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
@@ -59,7 +59,8 @@
     "siteUrl": false,
     "gdpr": false,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "cookiesAlert": false
+    "cookiesAlert": false,
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-HS2BF22N0Y\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-HS2BF22N0Y');\n</script>"
   },
   "pages": {
     "index.html": {
