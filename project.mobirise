@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "merchtest.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "audiom4",
       "title": "AudioM4",
@@ -12,15 +12,15 @@
         "warningColor": "#000000",
         "dangerColor": "#000000",
         "mainFont": "DM Sans",
-        "display1Font": "Durwent",
+        "display1Font": "PrinceValiant",
         "display1Size": 10,
-        "display2Font": "Durwent",
+        "display2Font": "PrinceValiant",
         "display2Size": "5.6",
-        "display5Font": "Durwent",
+        "display5Font": "PrinceValiant",
         "display5Size": 1.8,
         "display7Font": "Durwent",
         "display7Size": 1.2,
-        "display4Font": "Durwent",
+        "display4Font": "PrinceValiant",
         "display4Size": 1.1,
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
@@ -68,6 +68,18 @@
         "name": "Durwent",
         "url": null,
         "file": "@PROJECT_PATH@/fonts/Durwent/font.ttf"
+      },
+      {
+        "css": "'PrinceValiant'",
+        "name": "PrinceValiant",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/PrinceValiant/font.ttf"
+      },
+      {
+        "css": "'Rise of Kingdom'",
+        "name": "Rise of Kingdom",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/Rise%20of%20Kingdom/font.ttf"
       }
     ],
     "imageResize": true,

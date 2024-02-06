@@ -2,14 +2,14 @@ body {
   font-family: DM Sans;
 }
 .display-1 {
-  font-family: 'Durwent';
+  font-family: 'PrinceValiant';
   font-size: 10rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 16rem;
 }
 .display-2 {
-  font-family: 'Durwent';
+  font-family: 'PrinceValiant';
   font-size: 5.6rem;
   line-height: 1.3;
 }
@@ -17,7 +17,7 @@ body {
   font-size: 8.96rem;
 }
 .display-4 {
-  font-family: 'Durwent';
+  font-family: 'PrinceValiant';
   font-size: 1.1rem;
   line-height: 1.4;
 }
@@ -25,7 +25,7 @@ body {
   font-size: 1.76rem;
 }
 .display-5 {
-  font-family: 'Durwent';
+  font-family: 'PrinceValiant';
   font-size: 1.8rem;
   line-height: 1.4;
 }

@@ -1,4 +1,9 @@
 @font-face {
+   font-family: 'PrinceValiant';
+   font-display: swap;
+   src: url('PrinceValiant/font.ttf');
+}
+@font-face {
    font-family: 'Durwent';
    font-display: swap;
    src: url('Durwent/font.ttf');
